@@ -42,6 +42,15 @@ body.fh5co-offcanvas {
   overflow: hidden;
 }
 
+.wedding-heart {
+    max-width: 250px; /* Adjust this number to make the heart bigger or smaller */
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    margin: 0 auto; /* Centers the image if it is inside a centered container */
+    display: block;
+}
+
 a {
   color: #3E5A9A;
   -webkit-transition: 0.5s, ease;
