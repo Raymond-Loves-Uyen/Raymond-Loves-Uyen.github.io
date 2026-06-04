@@ -1,2 +1,1 @@
-# rayandcarol.github.io
-Wedding Website
+# sarah-brendon-wedding
