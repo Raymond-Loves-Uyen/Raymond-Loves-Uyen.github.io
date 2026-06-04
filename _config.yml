@@ -1,4 +1,5 @@
 # --- Basic Wedding Information ---
-title: "The Wedding of Raymond & Phuong Uyen"
-description: "Join us to celebrate our wedding on July 17th, 2027"
-url: "https://Raymond-Loves-Uyen.github.io" # Replace with your GitHub username
+title: "The Wedding of Raymond & Uyen"
+description: "Welcome to our wedding website!"
+url: "https://github.io" 
+baseurl: "" 
