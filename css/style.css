@@ -43,7 +43,7 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #C8A2C8;
+  color: #3E5A9A;
   -webkit-transition: 0.5s, ease;
   -o-transition: 0.5s, ease;
   transition: 0.5s, ease;
@@ -51,7 +51,7 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #C8A2C8;
+  color: #3E5A9A;
 }
 
 p, ul, ol {
@@ -74,17 +74,17 @@ figure {
 
 ::-webkit-selection {
   color: #fcfcfc;
-  background: #C8A2C8;
+  background: #3E5A9A;
 }
 
 ::-moz-selection {
   color: #fcfcfc;
-  background: #C8A2C8;
+  background: #3E5A9A;
 }
 
 ::selection {
   color: #fcfcfc;
-  background: #C8A2C8;
+  background: #3E5A9A;
 }
 
 #fh5co-header {
@@ -105,7 +105,7 @@ figure {
 
 .header-top {
   padding: 10px 0;
-  background: #C8A2C8;
+  background: #3E5A9A;
 }
 
 .header-top .fh5co-link a {
@@ -281,11 +281,11 @@ figure {
 }
 
 .sf-menu a:hover, .sf-menu a:focus {
-  color: #C8A2C8 !important;
+  color: #3E5A9A !important;
 }
 
 .sf-menu li.active a:hover, .sf-menu li.active a:focus {
-  color: #C8A2C8;
+  color: #3E5A9A;
 }
 
 .sf-menu li,
@@ -309,7 +309,7 @@ figure {
 .sf-menu ul li:hover a,
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
-  color: #C8A2C8;
+  color: #3E5A9A;
 }
 
 .sf-menu ul li:hover,
@@ -394,11 +394,11 @@ figure {
 }
 
 #fh5co-logo a {
-  color: #C8A2C8;
+  color: #3E5A9A;
 }
 
 #fh5co-logo a:hover, #fh5co-logo a:focus {
-  color: #C8A2C8 !important;
+  color: #3E5A9A !important;
 }
 
 #fh5co-menu-wrap {
@@ -414,7 +414,7 @@ figure {
 }
 
 #fh5co-primary-menu > li > ul li.active > a {
-  color: #C8A2C8 !important;
+  color: #3E5A9A !important;
 }
 
 #fh5co-primary-menu > li > .sf-with-ul:after {
@@ -540,7 +540,7 @@ figure {
 }
 
 #fh5co-primary-menu .fh5co-sub-menu a:hover {
-  color: #C8A2C8 !important;
+  color: #3E5A9A !important;
 }
 
 #fh5co-couple,
@@ -586,7 +586,7 @@ figure {
   font-size: 50px;
   font-weight: 300;
   position: relative;
-  color: #C8A2C8;
+  color: #3E5A9A;
 }
 
 .heading-section p {
@@ -614,7 +614,7 @@ figure {
 #fh5co-couple .amp-center {
   font-size: 60px;
   margin-top: 100%;
-  color: #C8A2C8;
+  color: #3E5A9A;
 }
 
 @media screen and (max-width: 768px) {
@@ -624,7 +624,7 @@ figure {
 }
 
 #fh5co-countdown {
-  background: #C8A2C8;
+  background: #3E5A9A;
 }
 
 #fh5co-countdown .countdown {
@@ -760,7 +760,7 @@ figure {
 #fh5co-started .btn-block {
   height: 54px;
   border: none !important;
-  background: #C8A2C8;
+  background: #3E5A9A;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -887,7 +887,7 @@ figure {
 }
 
 .fh5co-blog .blog-text span.comment a i {
-  color: #C8A2C8;
+  color: #3E5A9A;
   padding-left: 4px;
 }
 
@@ -917,7 +917,7 @@ figure {
 
 .fh5co-social-icons > a {
   padding: 4px 10px;
-  color: #C8A2C8;
+  color: #3E5A9A;
 }
 
 .fh5co-social-icons > a i {
@@ -982,7 +982,7 @@ figure {
 }
 
 .btn.btn-primary {
-  background: #C8A2C8;
+  background: #3E5A9A;
   color: #fff;
   border: none !important;
   border: 2px solid transparent !important;
@@ -990,7 +990,7 @@ figure {
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #C8A2C8;
+  background: #3E5A9A;
   color: #fff !important;
 }
 
@@ -1078,7 +1078,7 @@ figure {
 }
 
 #offcanvas-menu ul li a:hover {
-  color: #C8A2C8;
+  color: #3E5A9A;
 }
 
 #offcanvas-menu ul li > .fh5co-sub-menu {
@@ -1087,7 +1087,7 @@ figure {
 }
 
 #offcanvas-menu ul li.active > a {
-  color: #C8A2C8;
+  color: #3E5A9A;
 }
 
 #offcanvas-menu ul .fh5co-sub-menu {
