@@ -1364,10 +1364,10 @@ body {
     }
 
     /* Wedding palette colors */
-    .c1 { background: #F4EDE6; } /* ivory */
-    .c2 { background: #d3dccf; } /* sage */
-    .c3 { background: #B7C4B2; } /* champagne */
-    .c4 { background: #eed1ee; } /* lilac */
-    .c5 { background: #C8A2C8; } /* mocha */
-    .c6 { background: #C8A2C8; } /* mocha */
+    .c1 { background: #3E5A9A; } /* Medium Blue */
+    .c2 { background: #5F93E4; } /* Cornflower Blue */
+    .c3 { background: #C2A679; } /* Warm Gold */
+    .c4 { background: #F5F2E9; } /* Soft Ivory */
+    .c5 { background: #182845; } /* Midnight Navy */
+    .c6 { background: #524566; } /* Deep Plum */
 
