@@ -43,11 +43,10 @@ body.fh5co-offcanvas {
 }
 
 .wedding-heart {
-    max-width: 250px; /* Adjust this number to make the heart bigger or smaller */
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-    margin: 0 auto; /* Centers the image if it is inside a centered container */
+    width: 90px;          /* Lock a perfect square width */
+    height: 90px;         /* Lock a perfect square height */
+    object-fit: contain;  /* Keeps the cat graphic inside looking perfect */
+    margin: 0 auto;       
     display: block;
 }
 
@@ -595,7 +594,7 @@ figure {
 }
 
 .fh5co-section-gray {
-  background: #F5F2E9;
+  background: #F5F2E9 !important;
 }
 
 .heading-section {
